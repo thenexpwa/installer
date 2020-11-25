@@ -26,114 +26,31 @@
     "mageplaza/module-smtp": "^1.3",
     "olegkoval/magento2-regenerate-url-rewrites": "^1.4",
 
-    "nexpwa/module-ab-testing": "dev-master",
-    "nexpwa/module-catalog-graphql": "dev-master",
-    "nexpwa/module-cms-graphql": "dev-master",
-    "nexpwa/module-compare-products-graphql": "dev-master",
-    "nexpwa/module-customer-authtoken": "dev-master",
-    "nexpwa/module-downloadable-graph-ql": "dev-master",
-    "nexpwa/module-generator": "dev-master",
-    "nexpwa/module-google-tag-manager": "dev-master",
-    "nexpwa/module-graphql-varnish-cache": "dev-master",
-    "nexpwa/module-layout": "dev-master",
-    "nexpwa/module-megamenu": "dev-master",
-    "nexpwa/module-newsletter-graphql": "dev-master",
-    "nexpwa/module-push-notification-graphql": "dev-master",
-    "nexpwa/module-pwa": "dev-master",
-    "nexpwa/module-quote-graphql": "dev-master",
-    "nexpwa/module-reviews-graphql": "dev-master",
-    "nexpwa/module-sales-graphql": "dev-master",
-    "nexpwa/module-social-login": "dev-master",
-    "nexpwa/module-store-graphql": "dev-master",
-    "nexpwa/module-theme-interceptor-example": "dev-master",
-    "nexpwa/module-wishlist-graphql": "dev-master"
+    "nexpwa/module-ab-testing": "*",
+    "nexpwa/module-catalog-graphql": "*",
+    "nexpwa/module-cms-graphql": "*",
+    "nexpwa/module-compare-products-graphql": "*",
+    "nexpwa/module-customer-authtoken": "*",
+    "nexpwa/module-downloadable-graph-ql": "*",
+    "nexpwa/module-generator": "*",
+    "nexpwa/module-google-tag-manager": "*",
+    "nexpwa/module-graphql-varnish-cache": "*",
+    "nexpwa/module-layout": "*",
+    "nexpwa/module-megamenu": "*",
+    "nexpwa/module-newsletter-graphql": "*",
+    "nexpwa/module-push-notification-graphql": "*",
+    "nexpwa/module-pwa": "*",
+    "nexpwa/module-quote-graphql": "*",
+    "nexpwa/module-reviews-graphql": "*",
+    "nexpwa/module-sales-graphql": "*",
+    "nexpwa/module-social-login": "*",
+    "nexpwa/module-store-graphql": "*",
+    "nexpwa/module-theme-interceptor-example": "*",
+    "nexpwa/module-wishlist-graphql": "*",
+
+    "nexpwa/theme-installer-plugin": "*",
+    "nexpwa/base-theme": "*"
   },
-  "repositories": [
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/ab-testing.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/catalog-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/cms-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/compare-products-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/customer-authtoken.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/downloadable-graph-ql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/generator.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/google-tag-manager.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/graphql-varnish-cache.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/layout.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/megamenu.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/newsletter-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/push-notification-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/pwa.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/quote-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/reviews-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/sales-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/social-login.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/store-graphql.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/theme-interceptor-example.git"
-    },
-    {
-      "type": "git",
-      "url":  "https://bitbucket.org/nexpwa/wishlist-graphql.git"
-    }
-  ],
   "authors": [
     {
       "email": "joy@codilar.com",
