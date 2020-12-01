@@ -3,7 +3,7 @@
   "description": "NexPWA Installer and dependency tracker",
   "type": "magento2-module",
   "license": "proprietary",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "require": {
     "scandipwa/catalog-graphql": "2.2.3",
     "scandipwa/cms-graphql": "1.3.0",
@@ -27,10 +27,10 @@
     "olegkoval/magento2-regenerate-url-rewrites": "^1.4",
 
     "nexpwa/module-ab-testing": "^1.0",
-    "nexpwa/module-catalog-graphql": "^1.0",
+    "nexpwa/module-catalog-graphql": "^1.1",
     "nexpwa/module-cms-graphql": "^1.0",
     "nexpwa/module-compare-products-graphql": "^1.0",
-    "nexpwa/module-customer-authtoken": "^1.0",
+    "nexpwa/module-customer-authtoken": "^1.1",
     "nexpwa/module-downloadable-graph-ql": "^1.0",
     "nexpwa/module-generator": "^1.0",
     "nexpwa/module-google-tag-manager": "^1.0",
@@ -49,7 +49,7 @@
     "nexpwa/module-wishlist-graphql": "^1.0",
 
     "nexpwa/theme-installer-plugin": "^1.0",
-    "nexpwa/base-theme": "^1.0"
+    "nexpwa/base-theme": "^1.1"
   },
   "authors": [
     {
